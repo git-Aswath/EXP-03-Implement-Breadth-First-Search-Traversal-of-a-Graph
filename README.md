@@ -166,7 +166,8 @@ print(traversedpath)
 1 3 
 2 4 
 3 4 
-Sample Output: 
+
+#Sample Output: 
 ['0', '1', '2', '3', '4'] 
 
 #Result
