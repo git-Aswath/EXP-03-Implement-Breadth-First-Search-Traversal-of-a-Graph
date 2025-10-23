@@ -1,6 +1,6 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
-<h3>Name: Md Aftab Ansari</h3>
-<h3>Reg No: 212224060149</h3>
+<h3>Name:Aswathaman N</h3>
+<h3>Reg No: 212224060029</h3>
 
 <h2>AIM</h2>: 
 To Implement Breadth First Search Traversal of a Graph using Python 3.
